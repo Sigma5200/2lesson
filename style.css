@@ -1,0 +1,17 @@
+body {
+    background-color:aquamarine;
+    color:black;
+}
+li{
+    list-style-type:lower-latin
+}
+
+div{
+    width: 400px;
+    height: 400px;
+    background-color: blanchedalmond;
+   
+}
+img{
+    width: 999px;
+    height: 599px;
